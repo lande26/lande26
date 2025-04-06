@@ -1,78 +1,80 @@
-<h1 align="center">「 KARTIK LANDE 」</h1>
-<h3 align="center">⚔️ Sophomore at VJTI | Code Slayer ⚔️</h3>
+# <div align="center">KARTIK LANDE</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lande26&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" height="150" alt="Kartik's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lande26&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dark" height="150" alt="Kartik's top languages" />
+  <img src="https://raw.githubusercontent.com/lande26/lande26/main/header.png" width="800" alt="Berserk banner" />
 </div>
 
-<img align="right" height="180" src="https://i.imgur.com/path-to-berserk-image.jpg" />
+<div align="center">
+  <code>SOPHOMORE AT VJTI | DEVELOPER | STRUGGLER</code>
+</div>
 
-## ⚡ ABOUT ME
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lande26&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lande26&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0D1117&text_color=FFFFFF&icon_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lande26&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&text_color=FFFFFF" />
+</div>
+
+---
+
+### 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
+
+```javascript
+const kartik = {
+  languages: ["C++", "JavaScript", "HTML", "CSS"],
+  frameworks: ["React", "Express", "Bootstrap", "Tailwind"],
+  database: ["MongoDB"],
+  tools: ["Node.js", "Vite", "Arduino"],
+  competitive: ["CodeChef", "Codeforces", "LeetCode"],
+  currentlyLearning: "Web Development",
+  quote: "In this world, is the destiny of mankind controlled by some transcendental entity or law? Is it like the hand of God hovering above? At least it is true that man has no control, even over his own will."
+}
 ```
-・Forging code through chaos and determination
-・Currently wielding the MERN stack
-・Solving complex problems is my battlefield
-・Striving for greatness, one commit at a time
-・Reach my domain: kartiklande70@gmail.com
-```
 
-## 🗡️ ARSENAL
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-</div>
+### 𝐁𝐀𝐓𝐓𝐋𝐄𝐅𝐈𝐄𝐋𝐃𝐒
 
-## ⚔️ BATTLEFIELD RECORDS
-<div align="left">
-  <a href="https://www.codechef.com/users/kartiklande70" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=white" height="30" alt="CodeChef" />
+<div>
+  <a href="https://www.codechef.com/users/kartiklande70">
+    <img src="https://img.shields.io/badge/CodeChef-%23000000.svg?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://codeforces.com/profile/kartik70" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=for-the-badge&logo=codeforces&logoColor=white" height="30" alt="Codeforces" />
+  <a href="https://codeforces.com/profile/kartik70">
+    <img src="https://img.shields.io/badge/Codeforces-%23000000.svg?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://www.leetcode.com/kartiklande70" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" height="30" alt="LeetCode" />
+  <a href="https://www.leetcode.com/kartiklande70">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
 
-## 🔥 CONNECTIONS
-<div align="left">
-  <a href="https://linkedin.com/in/kartik-lande" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+---
+
+### 𝐂𝐎𝐍𝐓𝐀𝐂𝐓
+
+<div>
+  <a href="https://linkedin.com/in/kartik-lande">
+    <img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/kartik70" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
+  <a href="https://instagram.com/kartik70">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:kartiklande70@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-%23000000.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://github.com/lande26/lande26/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake - Dark" />
+  <img src="https://github.com/lande26/lande26/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lande26&style=flat-square&color=000000" alt="Profile views" />
-</div>
-
-<div align="center">
-  <h3>「 STRUGGLE, CODE, OVERCOME 」</h3>
+  <sub>
+    "I'd rather fight and fall than live with no hope at all."
+  </sub>
 </div>
