@@ -11,7 +11,7 @@
 ## 🧠 About Me
 - 🚀 Turning caffeine into code since my freshman year
 - 🌱 Currently mastering **Web Development** with the MERN stack
-- 💡 Passionate problem-solver with a competitive programming background
+- 💡 Passionate problem-solver 
 - 🎯 Mission: Building tech that makes a difference
 - 📫 Drop me a line at **kartiklande70@gmail.com**
 
