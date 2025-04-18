@@ -2,10 +2,9 @@
 <h3 align="center">Sophomore at VJTI | Full-Stack Developer in the Making</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lande26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Kartik's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lande26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Kartik's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lande26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github-dark&locale=en&hide_border=false" height="150" alt="Kartik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lande26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github-dark&hide_border=false" height="150" alt="Kartik's top languages" />
 </div>
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZrOXA5eno5bHpzOWwxbnhvaDdpcDUwcTRlcjRkazh2YmtjNmRqZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8uEN3vEZKibcjQwrJT/giphy.gif" alt="Programming GIF" />
 
 ## 🧠 About Me
