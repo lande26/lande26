@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lande26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Kartik's top languages" />
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Matrix Gif" />
 
 ## 🧠 About Me
 - 🚀 Turning caffeine into code since my freshman year
@@ -17,30 +17,37 @@
 
 ## 🛠️ Tech Arsenal
 
+### Programming Languages
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5 logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" /></a>
+</div>
+
+### Frameworks & Libraries
+<div align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" alt="React logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="Express.js logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="40" alt="Express.js logo" />
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="Bootstrap logo" /></a>
+</div>
+
+### Tools & Technologies
+<div align="left">
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" /></a>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS logo" />
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="40" alt="Vite logo" /></a>
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" height="40" alt="Vite logo" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino logo" />
+  <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino logo" /></a>
 </div>
 
 ## 🎯 Competitive Coding Profile
@@ -76,5 +83,5 @@
 </div>
 
 <div align="center">
-  <h3>💻 Happy Coding! 💻</h3>
+  <h3>⚡ Code Hard, Debug Harder ⚡</h3>
 </div>
