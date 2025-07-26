@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋 I'm Kartik Lande</h1>
-<h3 align="center">Sophomore at VJTI | Full-Stack Developer in the Making</h3>
+<h3 align="center">UG at VJTI | Full-Stack Developer in the Making</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lande26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=000000&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=FFD700&locale=en" height="150" alt="Kartik's GitHub stats" />
