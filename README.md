@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Kartik Lande</h1>
+<h1 align="center">Hey! 👋 I'm Kartik Lande</h1>
 <h3 align="center">UG at VJTI | Full-Stack Developer in the Making</h3>
 
 <div align="center">
