@@ -21,6 +21,7 @@
 <div align="left">
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
   <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 </div>
@@ -44,45 +45,33 @@
 
 ### DevOps & Cloud
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" /></a>
   <a href="#"><img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="#"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 </div>
 
+### APIs & Integrations
+<div align="left">
+  <a href="#"><img src="https://img.shields.io/badge/TMDB_API-01D277?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="TMDB API" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AGORA_SDK-099DFD?style=for-the-badge&logo=agora&logoColor=white" alt="Agora SDK" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VIDSRC-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="VidSrc" /></a>
+</div>
+
 ### Other Tools
 <div align="left">
   <a href="#"><img src="https://img.shields.io/badge/WEBSOCKETS-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
   <a href="#"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
   <a href="#"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
   <a href="#"><img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /></a>
 </div>
 
-## 🚀 Featured Projects
 
-### 🗳️ [PollMap - Real-Time Engagement Platform](https://github.com/lande26)
-**Tech Stack:** ReactJS, Supabase, Redis, WebSockets, Docker, AWS EC2
-
-Built a real-time engagement system for live polls, quizzes, and Q&A during events with sub-300ms latency. Integrated WebSocket and Redis Pub/Sub for instant vote updates, implemented role-based access control with password protection, and deployed using Docker on AWS EC2 with auto-scaling for 99% uptime.
-
-### 💼 [Job Portal - Full-Stack Application](https://github.com/lande26)
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node), TailwindCSS
-
-Developed a comprehensive job portal with secure JWT authentication, personalized profiles, and Cloudinary integration for resume uploads. Built job browsing, saving, and application features with a responsive UI, plus Agora SDK integration for video interviews.
-
-### 🎬 [LandeMon - Streaming Platform](https://github.com/lande26)
-**Tech Stack:** Next.js, TMDB API, VidSrc, Vercel
-
-Created a streaming platform with 500,000+ movies and TV shows using TMDB API. Implemented HD video streaming with <5 second load time and 55% reduction in buffering. Optimized content delivery using Vercel's Edge Network CDN, achieving 40% performance improvement with modern dark/light theme UI.
-
-## 🏆 Achievements
-
-- 🥇 **Codeforces Pupil** - 1332 Rating (Top 25% among 100,000+ users in India)
-- 🥇 **LeetCode** - 1644 Rating (Top 20% among 600,000+ active users)
-- 🥇 **PRMO 2020** - Top 1% among 250,000 participants nationally
-- 📊 **Academic Excellence** - CGPA: 7.86 @ VJTI Mumbai
-- 🎓 **MHT-CET** - 99.58 Percentile | HSC - 88.8%
 
 ## 🎯 Competitive Coding Profiles
 <div align="left">
@@ -97,13 +86,7 @@ Created a streaming platform with 500,000+ movies and TV shows using TMDB API. I
   </a>
 </div>
 
-## 👥 Leadership & Community
 
-**CP Core Member @ Community of Coders (CoC), VJTI** *(Apr 2025 - Present)*
-- 📚 Led CP Online Workshop for 200+ participants covering problem-solving strategies and live coding
-- 🎯 Designed problems and test cases for CodeHunt with real-time participant debugging support
-- 🎪 Coordinated multiple coding events ensuring smooth operations and active engagement
-- 🧑‍🏫 Mentored 3 teams (12 members total) through complete web development lifecycle from planning to deployment
 
 ## 🌐 Connect With Me
 <div align="left">
