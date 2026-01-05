@@ -81,7 +81,7 @@
   <a href="https://www.leetcode.com/kartiklande70" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/kartiklande70" target="_blank">
+  <a href="https://www.codechef.com/users/kartik70_30" target="_blank">
     <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </div>
