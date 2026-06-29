@@ -48,7 +48,7 @@
 ```yaml
 name     : Kartik Lande
 degree   : B.Tech Electronics & Telecom @ VJTI Mumbai
-role     : SDE Intern @ MariTribeOne
+role     : SDE Intern @ Stealth Startup
 status   : Open to full-time SDE / Full-Stack roles
 stack    : MERN · TypeScript · AWS · Docker
 contact  : kartiklande70@gmail.com
